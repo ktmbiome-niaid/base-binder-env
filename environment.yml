@@ -6,7 +6,7 @@ channels:
 dependencies:
   - r-base
   - bioconductor-dada2
-  - bioconductor-phangorn
+  - r-phangorn
   - bioconductor-phyloseq
   - bioconductor-shortread
   - bioconductor-decipher
