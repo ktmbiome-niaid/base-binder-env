@@ -5,6 +5,7 @@ channels:
   - defaults
 dependencies:
   - r-base
+  - bioconductor-zlibbioc==1.48.0
   - bioconductor-dada2
   - r-phangorn
   - bioconductor-phyloseq
